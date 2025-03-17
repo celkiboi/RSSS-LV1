@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSS-LV1", "RSSS-LV1.csproj", "{A526FD02-39D1-4349-8FDB-09AF5E49D41F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSS-LV1-II", "..\RSSS-LV1-II\RSSS-LV1-II.csproj", "{754F255C-CAC5-4992-8D3A-C6B3F302F5C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSS-LV1-II", "..\RSSS-LV1-II\RSSS-LV1-II.csproj", "{2AF7CE65-4288-4499-B435-EA2170A0CE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A526FD02-39D1-4349-8FDB-09AF5E49D41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A526FD02-39D1-4349-8FDB-09AF5E49D41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A526FD02-39D1-4349-8FDB-09AF5E49D41F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{754F255C-CAC5-4992-8D3A-C6B3F302F5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{754F255C-CAC5-4992-8D3A-C6B3F302F5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{754F255C-CAC5-4992-8D3A-C6B3F302F5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{754F255C-CAC5-4992-8D3A-C6B3F302F5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF7CE65-4288-4499-B435-EA2170A0CE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF7CE65-4288-4499-B435-EA2170A0CE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF7CE65-4288-4499-B435-EA2170A0CE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF7CE65-4288-4499-B435-EA2170A0CE22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
